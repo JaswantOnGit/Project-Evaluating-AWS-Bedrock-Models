@@ -1,0 +1,1 @@
+# TODO: add project dependencies (e.g. boto3, langchain, pandas, matplotlib, textstat)
