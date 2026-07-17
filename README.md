@@ -1,4 +1,4 @@
-# AWS Bedrock Model Evaluation — Production-Grade Benchmark Pipeline
+# AWS Bedrock Model Evaluation | Production Grade Benchmark Pipeline
 
 **Role:** AI Project Manager / Technical Program Manager
 **Stack:** Amazon Bedrock · Boto3 · LangChain (Converse API) · SageMaker Studio · Python
@@ -39,7 +39,7 @@ The pipeline runs two tracks in parallel: an **engineering build** (connection �
 
 ## 🔑 Key Result
 
-[Add your actual headline number here once finalized — e.g. "Nova Pro delivered a 20% latency improvement over Nova Lite at ~15x the token cost — flagged in the decision memo as a tradeoff requiring explicit sign-off rather than a default choice."]
+Nova Lite matched Nova Pro's output volume closely (933 vs. 1,071 words across the same 3 prompts) while running ~13% faster on average and costing ~15x less per benchmark run ($0.000323 vs. $0.004934). Recommended Nova Lite as the default model in the decision memo, with Nova Pro reserved for use cases where the marginal content gain is worth the cost premium — a tradeoff surfaced for stakeholder sign-off rather than assumed.
 
 ## 🛠️ How to Run
 
